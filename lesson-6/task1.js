@@ -2,7 +2,7 @@
 function getRectangleArea1(width, height){
     return width * height
 }
-console.log(getRectangleArea1(10,12))
+console.log(getRectangleArea1(10,13))
 
 //Function Expression
 const getRectangleArea2 = function(width, height){
