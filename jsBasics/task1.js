@@ -17,5 +17,5 @@ let nothing = null;
 console.log(nothing);
 
 //Undefined
-let undefined_1
+let undefined_1;
 console.log(undefined_1);
